@@ -5,3 +5,6 @@ resource "google_storage_bucket_iam_member" "test" {
   # This is bad
   member = "allUsers"
 }
+
+# test
+
