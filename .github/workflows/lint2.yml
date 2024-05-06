@@ -27,3 +27,4 @@ jobs:
         with:
           sarif_file: tfsec.sarif
           category: tfsec/dir2
+          checkout_path: dir2
